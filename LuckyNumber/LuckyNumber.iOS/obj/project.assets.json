@@ -658,20 +658,20 @@
     ]
   },
   "packageFolders": {
-    "E:\\Users\\Leerkracht\\.nuget\\packages\\": {}
+    "E:\\Users\\LL6IN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\Leerkracht\\Documents\\Oefeningen Universal Apps\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\LuckyNumber.iOS.csproj",
+      "projectUniqueName": "E:\\Users\\LL6IN\\Documents\\GitHub\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\LuckyNumber.iOS.csproj",
       "projectName": "LuckyNumber.iOS",
-      "projectPath": "E:\\Users\\Leerkracht\\Documents\\Oefeningen Universal Apps\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\LuckyNumber.iOS.csproj",
-      "packagesPath": "E:\\Users\\Leerkracht\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\Leerkracht\\Documents\\Oefeningen Universal Apps\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\obj\\",
+      "projectPath": "E:\\Users\\LL6IN\\Documents\\GitHub\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\LuckyNumber.iOS.csproj",
+      "packagesPath": "E:\\Users\\LL6IN\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\LL6IN\\Documents\\GitHub\\Oefeningen-Universal-Apps\\LuckyNumber\\LuckyNumber.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "E:\\Users\\Leerkracht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "E:\\Users\\LL6IN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
